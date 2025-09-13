@@ -1,53 +1,71 @@
-Santhosh_Educational-organisation-using-Servicenow
-A ServiceNow application designed to streamline educational institution operations such as student management, course registration, faculty workflows, and support services. Includes digital workflows, automated processes, and self-service portals for students and staff.
+# Educational Organisation Using ServiceNow
 
-Educational Organisation Using ServiceNow
-Project Overview
-This project demonstrates how ServiceNow can be used to streamline and automate processes in an educational organisation.
-Currently, many institutions handle admissions, student records, and progress manually, which causes delays, errors, and poor tracking.
+## Team Information
+- *Team ID:* NM2025TMID15471  
+- *Team Leader:* Santosh S  
+- *Team Member 1:* Sanjay S  
+- *Team Member 2:* Yuvaraj S  
+- *Team Member 3:* Sathish Kumar M  
 
-Our solution provides a digital platform that manages:
+---
 
-Student admissions
-Student & parent details
-Automated admission numbers
-Progress calculation (marks, percentage, results)
-Structured workflows
-Team Information
-Team ID: NM2025TMID15471
-Team Leader: Santhosh S
-Team Members: Sanjay S, Yuvaraj S, Sathish Kumar M
-Objectives
-Create a digital platform to manage admissions & student details.
-Automate admission number generation for easy tracking.
-Build structured forms for student & parent data.
-Implement workflows for admission stages:
-New → In Progress → Joined → Rejected → Rejoined → Closed → Cancelled.
-Automate marks, totals, percentages, and result status.
-Reduce errors, save staff time, and improve efficiency.
-Features
-Student Admissions: Step-by-step admission process with status tracking.
-Student Management: Store all student and parent details securely.
-Automation: Auto-generate admission numbers and calculate results.
-Workflows: Transparent admission and result process.
-Custom Scripts: Client-side scripts for validation, auto-fill, and calculations.
-Skills & Tools
-ServiceNow Platform
-Update Sets
-Table Creation
-Form Layout & Design
-Number Maintenance
-Process Flow Design
-Client Scripts (JavaScript)
-Automation & Problem-Solving
-Milestones
-ServiceNow Instance Setup – Create and configure developer instance.
-Update Set Creation – Build update sets for project versioning.
-Table Creation – Student, Admission, and Progress tables.
-Form Layout & Design – Configure structured forms for data entry.
-Number Maintenance – Auto-generate admission numbers.
-Process Flow – Define admission process lifecycle.
-Client Scripts – Automate calculations, disable fields, and auto-populate data.
-Result Management – Auto-calculate marks, percentage, and pass/fail.
+## Problem Statement
+In many educational institutions, student details, admissions, and progress are handled manually or through separate tools. This causes mistakes, delays, and difficulty in tracking records.  
+A unified system is needed to manage admissions, student details, and results efficiently.
 
-Readme file
+---
+
+## Objectives
+- Build a digital platform for admissions and student management using *ServiceNow*.  
+- Automate generation of admission numbers for easy tracking.  
+- Create structured forms for student & parent details.  
+- Implement workflows for admission process (New → In Progress → Joined → Rejected → Closed → Cancelled).  
+- Automate calculation of marks, percentages, and results.  
+- Improve speed, accuracy, and ease of use for staff.  
+
+---
+
+## Skills & Tools
+- ServiceNow Platform  
+- Update Sets  
+- Table Creation  
+- Form Layout & Design  
+- Number Maintenance  
+- Process Flow Design  
+- Client Scripts (JavaScript)  
+- Automation Skills  
+
+---
+
+## Project Milestones
+1. *Setup ServiceNow Instance* – Request and configure personal developer instance.  
+2. *Create Update Set* – Capture all changes under a dedicated update set.  
+3. *Table Creation*  
+   - Student Table  
+   - Admission Table  
+   - Student Progress Table  
+4. *Form Layout & Design* – Design forms for all tables.  
+5. *Number Maintenance* – Automate admission number generation.  
+6. *Process Flow* – Define stages of the admission process.  
+7. *Client Scripts* – Automate calculations and field updates:  
+   - Auto-populate admission details  
+   - Update fields by Pincode  
+   - Disable calculated fields  
+   - Calculate total marks & percentage  
+   - Assign Pass/Fail result status  
+
+---
+
+## Results
+The project *automates and streamlines student admissions and academic record management*.  
+Key achievements:  
+- Reduced errors by automating calculations & workflows.  
+- Saved time for staff by centralizing records.  
+- Improved transparency and efficiency in admissions and progress tracking.  
+
+---
+
+## Conclusion
+The *Educational Organisation Using ServiceNow* project demonstrates how ServiceNow can digitize and simplify the management of student records. It provides an error-free, fast, and user-friendly system for educational institutions.  
+
+---
